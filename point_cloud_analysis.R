@@ -18,7 +18,8 @@
 #           saved as ASCII CSV.
 #
 # Script Author  : Matthew Notarian
-# Code originally created by author, but refined and cleaned up in Claude Opus 4.7
+# First version, used for analysis as presented in the article, created by author
+# Prepared for publication (cleaned, annotated) in Claude Opus 4.7
 # Date    : 5-21-25
 # =============================================================================
 
